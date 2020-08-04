@@ -14,5 +14,5 @@ Sou um estudante de Engenharia de Controle e Automação :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, dotA 2.
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/> -> Email : joaocsc01@hotmail.com
- <br/> -> Linkedin : linkedin.com/in/joão-carlos-de-souza-castro-a288541a5
+ <br/> -> Linkedin : <a href="linkedin.com/in/joão-carlos-de-souza-castro-a288541a5">Clique Aqui</a>
 
