@@ -1,10 +1,11 @@
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRixWCWi8Y9795QSTEQs3qV-RaaskbMSfZqcg&usqp=CAU">
 
 # João Carlos
 
 ## Olá pessoal 👋
 Me amarro em resolver problemas utilizando a programação.
+<br/>
 Sou um estudante de Engenharia de Controle e Automação :computer:
 
  
