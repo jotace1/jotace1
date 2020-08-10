@@ -1,5 +1,5 @@
 
-<img width="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRixWCWi8Y9795QSTEQs3qV-RaaskbMSfZqcg&usqp=CAU">
+<img align="center" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRixWCWi8Y9795QSTEQs3qV-RaaskbMSfZqcg&usqp=CAU">
 
 # João Carlos
 
