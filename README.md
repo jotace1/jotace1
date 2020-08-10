@@ -3,7 +3,7 @@
 
 # João Carlos
 
-## Olá pessoal 👋
+## Fala pessoal 👋
 Me amarro em resolver problemas utilizando a programação.
 <br/>
 Sou um estudante de Engenharia de Controle e Automação :computer:
