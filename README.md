@@ -10,7 +10,7 @@ Sou um estudante de Engenharia de Controle e Automação :computer:
 
  
 
- <br/> :computer: &nbsp; Atualmente estudo: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Atualmente trabalho com: ReactJS, Node.js, React Native, AdonisJS & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, dotA 2.
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/> -> Email : joaocsc01@hotmail.com
