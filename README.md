@@ -15,8 +15,6 @@ I have some works with JavaScript and Node.js contact me if you have same intere
 
 ### <br/> :computer: &nbsp; I currently work with: ReactJS, NextJS, GraphQL, Serverless, Express, Adonis, AWS Services.
 ### <br/> :email: &nbsp; Contact:
- <br/> 
- <br/>  
  
 <a href="https://www.linkedin.com/in/heydrigh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
