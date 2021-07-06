@@ -18,11 +18,7 @@ I have some works with JavaScript and Node.js contact me if you have same intere
  <br/> 
  <br/>  
  
- <p align="left">
-
 <a href="https://www.linkedin.com/in/heydrigh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-</p>
 
 
 
