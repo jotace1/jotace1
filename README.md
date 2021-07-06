@@ -13,8 +13,8 @@ I have some works with JavaScript and Node.js contact me if you have same intere
 ![Jotace1 Status](https://github-readme-stats.vercel.app/api?username=jotace1&show_icons=true&theme=dark)               ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotace1&layout=compact&theme=dark)
 
 
- <br/> :computer: &nbsp; I currently work with: ReactJS, NextJS, GraphQL, Serverless, Express, Adonis, AWS Services.
- <br/> :email: &nbsp; Contact: 
+### <br/> :computer: &nbsp; I currently work with: ReactJS, NextJS, GraphQL, Serverless, Express, Adonis, AWS Services.
+### <br/> :email: &nbsp; Contact: 
  <br/> 
  <br/> 
  &nbsp; [![Forks][linkedin-shield]][linkedin-url]
