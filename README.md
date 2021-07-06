@@ -9,7 +9,7 @@ Me amarro em resolver problemas utilizando a programação.
 Sou um estudante de Engenharia de Controle e Automação :computer:
 
 
-![Jotace1 Status](https://github-readme-stats.vercel.app/api?username=jotace1&show_icons=true)    ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotace1&layout=compact)
+![Jotace1 Status](https://github-readme-stats.vercel.app/api?username=jotace1&show_icons=true&theme=dark)               ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotace1&layout=compact&theme=dark)
 
 
  
