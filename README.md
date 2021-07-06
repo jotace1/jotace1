@@ -3,7 +3,7 @@
 
 ## Hi everyone 👋
 <br/>
-I'm João Carlos. I am a JavaScript developer from Rio de Janeiro, Brasil. I'm currently working on ![@lubysoftware](https://github.com/lubysoftware) as a fullstack developer.
+I'm João Carlos. I am a JavaScript developer from Rio de Janeiro, Brasil. I'm currently working on <a href="https://www.luby.com.br/">@lubysoftware</a> as a fullstack developer.
 I have some works with JavaScript and Node.js contact me if you have same interesting or some questions!
 
 
