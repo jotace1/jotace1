@@ -1,7 +1,7 @@
 
 ## Hi everyone 👋
 <br/>
-I'm João Carlos. I am a Typescript/Golang developer from Rio de Janeiro, Brazil. I'm currently working on <a href="https://www.kavak.com/br">@kavak</a> as a software engineer.
+I'm João Carlos. I am a Typescript/Golang developer from Rio de Janeiro, Brazil. I'm currently working on <a href="https://www.samuraiseller.com/">@samuraiseller</a> as a software engineer.
 I have some works with Typescript, GoLang and Node.js contact me if you have same interesting or some questions!
 
 <br />
