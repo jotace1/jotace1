@@ -8,9 +8,6 @@ I have some works with Typescript, GoLang and Node.js contact me if you have sam
 <br />
 <br />
 
-![Jotace1 Status](https://github-readme-stats.vercel.app/api?username=jotace1&show_icons=true&theme=dark)               ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotace1&layout=compact&theme=dark)
-
-
 ### <br/> :email: &nbsp; Contact:
  
 <a href="https://www.linkedin.com/in/joaocsc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
